@@ -1,0 +1,14 @@
+(** @canonical Dune__exe.Client *)
+module Client = Dune__exe__Client
+
+(** @canonical Dune__exe.IA *)
+module IA = Dune__exe__IA
+
+(** @canonical Dune__exe.Main *)
+module Main = Dune__exe__Main
+
+(** @canonical Dune__exe.Protocole *)
+module Protocole = Dune__exe__Protocole
+
+(** @canonical Dune__exe.Traduction *)
+module Traduction = Dune__exe__Traduction
